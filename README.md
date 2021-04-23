@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preeti1605
-- 👀 I’m interested in R Programming
-- 🌱 I’m currently learning Machine Learning with R, Python, HTML, CSS, Javascript
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Machine Learning with R and Python
 - 💞️ I’m looking to collaborate on new projects. 
 - 📫 How to reach me ...
 
