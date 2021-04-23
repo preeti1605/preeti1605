@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @preeti1605
+- 👋 Hi, I’m Preeti
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine Learning with R and Python
 - 💞️ I’m looking to collaborate on new projects. 
