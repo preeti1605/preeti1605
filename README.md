@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Preeti
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning with R and Python
+- 👀 I’m a Data Science Enthusiast
+- 🌱 I’m currently pursuing MSc Data Science
 - 💞️ I’m looking to collaborate on new projects. 
 
 <!---
