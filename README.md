@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst/scientist enthusiast from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on new data analyst projects<br>👯 I’m just here to share all the personal hands-on projects<br>🤝 I’m looking for help with getting a job<br>🌱 I’m currently learning Flask and how to make web frameworks
+🔭 I’m currently working on new data analyst projects<br>👯 I’m just here to share all the personal hands-on projects<br>🌱 I’m currently learning Flask and how to make web frameworks
 
 
 ## 🌐 Socials:
