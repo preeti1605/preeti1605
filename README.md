@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on as a Data Analyst at a E-commerce Marketplace<br>👯 I’m just here to share all the personal hands-on projects<br>🌱 I’m currently learning Google Cloud and its features and maintaining pipelines
+🔭 I’m currently working on as a Data Analyst at an E-commerce Marketplace<br>👯 I’m just here to share all the personal hands-on projects<br>🌱 I’m currently working on Google Cloud BigQuery and its features and maintaining pipelines
 
 
 ## 🌐 Socials:
