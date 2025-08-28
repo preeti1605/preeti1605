@@ -25,6 +25,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+
+![Snake animation](https://github.com/preeti1605/preeti1605/blob/output/github-contribution-grid-snake.svg)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=preeti1605&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
